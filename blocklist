@@ -1,57 +1,57 @@
-!Hagary List
+#Hagary List
 
-||v10.events.data.microsoft.com
-||v10.vortex-win.data.microsoft.com/collect/v1
-||co4.telecommand.telemetry.microsoft.com
-||cs11.wpc.v0cdn.net
-||cs1137.wpc.gammacdn.net
-||modern.watson.data.microsoft.com
-||watson.telemetry.microsoft.com
-||telemetry.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com/collect/v1
+0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 cs1137.wpc.gammacdn.net
+0.0.0.0 modern.watson.data.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.com
 
-||api-gps-em.hismarttv.com
-||auth-em.hismarttv.com
-||msg-em.hismarttv.com
-||api-launcher-em.hismarttv.com
-||auth-launcher-em.hismarttv.com
-||api-gps-na.hismarttv.com
-||auth-na.hismarttv.com
-||msg-na.hismarttv.com
-||api-launcher-na.hismarttv.com
-||auth-launcher-na.hismarttv.com
-||unified-ter-na.hismarttv.com
+0.0.0.0 api-gps-em.hismarttv.com
+0.0.0.0 auth-em.hismarttv.com
+0.0.0.0 msg-em.hismarttv.com
+0.0.0.0 api-launcher-em.hismarttv.com
+0.0.0.0 auth-launcher-em.hismarttv.com
+0.0.0.0 api-gps-na.hismarttv.com
+0.0.0.0 auth-na.hismarttv.com
+0.0.0.0 msg-na.hismarttv.com
+0.0.0.0 api-launcher-na.hismarttv.com
+0.0.0.0 auth-launcher-na.hismarttv.com
+0.0.0.0 unified-ter-na.hismarttv.com
 
-||ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
-||ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
-||api-mf1.meta.ndmdhs.com
-||b02.black.ndmdhs.com
-||bravia.dl.playstation.net
-||call.me.sel.sony.com
-||flingo.tv
-||sonybivstatic-a.akamaihd.net
-||facemap.foldlife.net
-||bdcore-apr-lb.bda.ndmdhs.com
-||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
-||api.cid.samba.tv
-||preferences.cid.samba.tv
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+0.0.0.0 api-mf1.meta.ndmdhs.com
+0.0.0.0 b02.black.ndmdhs.com
+0.0.0.0 bravia.dl.playstation.net
+0.0.0.0 call.me.sel.sony.com
+0.0.0.0 flingo.tv
+0.0.0.0 sonybivstatic-a.akamaihd.net
+0.0.0.0 facemap.foldlife.net
+0.0.0.0 bdcore-apr-lb.bda.ndmdhs.com
+0.0.0.0 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+0.0.0.0 api.cid.samba.tv
+0.0.0.0 preferences.cid.samba.tv
 
-||nubileshunter.com^
-||stunningsweeties.com^
-||hegrehub.com^
-||tranker.com^
-||pinuphunter.com^
-||eroticinmind.com^
-||metxhunter.com^
-||vivhunter.com^
-||sexarthub.com^
-||eternalbabes.com^
-||randallhub.com^
-||goddesshunter.com^
-||wowsweeties.com^
-||showyhub.com^
-||nudebabes.tube^
-||nudebabes.pics^
-||sexmovies.tube^
-||seesnaturalwayday.biz^
-||lotjobslotanswer.biz^
+0.0.0.0 nubileshunter.com^
+0.0.0.0 stunningsweeties.com^
+0.0.0.0 hegrehub.com^
+0.0.0.0 tranker.com^
+0.0.0.0 pinuphunter.com^
+0.0.0.0 eroticinmind.com^
+0.0.0.0 metxhunter.com^
+0.0.0.0 vivhunter.com^
+0.0.0.0 sexarthub.com^
+0.0.0.0 eternalbabes.com^
+0.0.0.0 randallhub.com^
+0.0.0.0 goddesshunter.com^
+0.0.0.0 wowsweeties.com^
+0.0.0.0 showyhub.com^
+0.0.0.0 nudebabes.tube^
+0.0.0.0 nudebabes.pics^
+0.0.0.0 sexmovies.tube^
+0.0.0.0 seesnaturalwayday.biz^
+0.0.0.0 lotjobslotanswer.biz^
 
